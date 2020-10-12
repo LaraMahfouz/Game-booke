@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(pink, gray);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    word-spacing: 20px;
+  }
+  .beko{
+    padding: 2rem 5rem;
+  }
+  
+  li a:hover {
+    background-color: pink;
+  }
+  .img{
+      padding-top: 40px;
+
+  }
+img:hover{
+opacity:60%;
+
+}
+
+.h2{
+  color: white;
+}
+.par{
+    padding: 5px 0px;
+    font-family:'Frank Ruhl Libre', serif;
+    font-size: 20px;
+    color:white;
+    font-weight: bold;
+    text-align: justify;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: pink;
+  color: black;
+}
